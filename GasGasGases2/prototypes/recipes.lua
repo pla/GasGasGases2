@@ -94,7 +94,7 @@ data:extend({
   {
     type = "recipe",
     name = "helium",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/helium.png",
     icon_size = 64,
     energy_required = 25,
@@ -118,7 +118,7 @@ data:extend({
   {
     type = "recipe",
     name = "neon",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/neon.png",
     icon_size = 64,
     energy_required = 30,
@@ -142,7 +142,7 @@ data:extend({
   {
     type = "recipe",
     name = "argon",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/argon.png",
     icon_size = 64,
     energy_required = 40,
@@ -166,7 +166,7 @@ data:extend({
   {
     type = "recipe",
     name = "krypton",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/krypton.png",
     icon_size = 64,
     energy_required = 50,
@@ -190,7 +190,7 @@ data:extend({
   {
     type = "recipe",
     name = "xenon",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/xenon.png",
     icon_size = 64,
     energy_required = 60,
@@ -214,7 +214,7 @@ data:extend({
   {
     type = "recipe",
     name = "radon",
-    category = "atmosphere-condensation",
+    category = "kr-atmosphere-condensation",
     icon = "__GasGasGases2__/graphics/icons/radon.png",
     icon_size = 64,
     energy_required = 70,
