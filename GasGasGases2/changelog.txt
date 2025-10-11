@@ -1,32 +1,10 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.5
-Date: 2024-01-21
-  Features:
-    - Removed old unused files.
+Version: 2.0.1
+Date: 11.10.2025
+  Bug Fixes:
+    - Increase mod compatibility
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.4
-Date: 2023-12-20
+Version: 2.0.0
+Date: 10.10.2025
   Features:
-    - Added earlier argon recipe and removed optics air liquefaction prerequisite if bzgas is instaled.
----------------------------------------------------------------------------------------------------
-Version: 0.1.3
-Date: 2023-12-07
-  Features:
-    - Fixed BZ Carbon's fullerene recipe accidentally changed to a crafting-with-fluid recipe.
----------------------------------------------------------------------------------------------------
-Version: 0.1.2
-Date: 2023-12-03
-  Features:
-    - Fixed to work with the MetalsForYou mod split.
-    - Fixed cryogenic gas plant not outputting all gases.
----------------------------------------------------------------------------------------------------
-Version: 0.1.1
-Date: 2023-11-28
-  Features:
-    - More support for MetalsForYou.
-    - Fixed textures alpha level.
----------------------------------------------------------------------------------------------------
-Version: 0.1.0
-Date: 2023-11-25
-  Features:
-    - Alpha release.
+    - Update to Factorio 2.0
