@@ -289,7 +289,7 @@ data:extend({
   }
 })
 
-if mods["bzgas"] then
+if mods["bzgas2"] then
   data:extend({
     {
       type = "recipe",
@@ -298,7 +298,7 @@ if mods["bzgas"] then
       icons = (mods["Krastorio2"] and
         {
           { icon = "__GasGasGases2__/graphics/icons/argon.png", icon_size = 64},
-          { icon = "__bzgas__/graphics/icons/gas.png", icon_size = 128, scale=0.2, shift= {-8, -8}},
+          { icon = "__bzgas2__/graphics/icons/gas.png", icon_size = 128, scale=0.2, shift= {-8, -8}},
         } or {
           { icon = "__GasGasGases2__/graphics/icons/argon.png", icon_size = 64},
         }),

@@ -32,6 +32,6 @@ data:extend(
   },
 })
 util.add_prerequisite("chemical-science-pack", "air-liquefaction")
-if not mods["bzgas"] then
+if not mods["bzgas2"] then
   util.add_prerequisite("optics", "air-liquefaction")
 end

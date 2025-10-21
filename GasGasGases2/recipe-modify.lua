@@ -47,11 +47,11 @@ if mods["Indium2"] then
     util.add_ingredient("cryogenic-gas-plant", "cryogenic-seal", 10)
 end
 
-if mods["bzcarbon"] then
+if mods["bzcarbon2"] then
     util.add_ingredient("fullerenes", "argon", 10)
 end
 
-if mods["bzsilicon"] then
+if mods["bzsilicon2"] then
     util.set_category("gyro","crafting-with-fluid")
     util.add_ingredient("gyro", "xenon", 10)
 
@@ -59,7 +59,7 @@ if mods["bzsilicon"] then
     util.add_ingredient("solar-cell", "argon", 10)
 end
 
-if mods["bztungsten"] then
+if mods["bztungsten2"] then
     util.set_category("rocket-engine-nozzle","crafting-with-fluid")
     util.add_ingredient("rocket-engine-nozzle", "argon", 10)
 end
