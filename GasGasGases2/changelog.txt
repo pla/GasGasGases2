@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 02.11.2025
+  Bug Fixes:
+    - Fix name of argon extraction recipe
+    - Argon extraction recipe uses basic-chemistry crafting category
+    - Change "optics" to "lamp" to respect the Factorio 2.0 renaming
+---------------------------------------------------------------------------------------------------
 Version: 2.0.2
 Date: 21.10.2025
   Changes:
