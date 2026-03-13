@@ -16,8 +16,8 @@ util.add_ingredient("productivity-module-3", "krypton", 30)
 util.set_category("speed-module-3", "crafting-with-fluid")
 util.add_ingredient("speed-module-3", "xenon", 30)
 
-util.set_category("effectivity-module-3", "crafting-with-fluid")
-util.add_ingredient("effectivity-module-3", "radon", 30)
+util.set_category("efficiency-module-3", "crafting-with-fluid")
+util.add_ingredient("efficiency-module-3", "radon", 30)
 
 util.set_category("uranium-fuel-cell", "chemistry")
 data.raw.recipe["uranium-fuel-cell"].results = { { type = "item", name = "uranium-fuel-cell", amount = 1 }, { type = "fluid", name = "krypton", amount = 30 } }
