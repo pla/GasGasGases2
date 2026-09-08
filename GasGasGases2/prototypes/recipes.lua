@@ -94,7 +94,7 @@ data:extend({
   {
     type = "recipe",
     name = "helium",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/helium.png",
     icon_size = 64,
     energy_required = 25,
@@ -118,7 +118,7 @@ data:extend({
   {
     type = "recipe",
     name = "neon",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/neon.png",
     icon_size = 64,
     energy_required = 30,
@@ -142,7 +142,7 @@ data:extend({
   {
     type = "recipe",
     name = "argon",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/argon.png",
     icon_size = 64,
     energy_required = 40,
@@ -166,7 +166,7 @@ data:extend({
   {
     type = "recipe",
     name = "krypton",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/krypton.png",
     icon_size = 64,
     energy_required = 50,
@@ -190,7 +190,7 @@ data:extend({
   {
     type = "recipe",
     name = "xenon",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/xenon.png",
     icon_size = 64,
     energy_required = 60,
@@ -214,7 +214,7 @@ data:extend({
   {
     type = "recipe",
     name = "radon",
-    category = "kr-atmosphere-condensation",
+    categories = {"kr-atmosphere-condensation"},
     icon = "__GasGasGases2__/graphics/icons/radon.png",
     icon_size = 64,
     energy_required = 70,
@@ -242,7 +242,7 @@ data:extend({
   {
     type = "recipe",
     name = "air-liquefaction",
-    category = "cryonics",
+    categories = {"cryonics"},
     icon = "__base__/graphics/icons/fluid/steam.png",
     icon_size = 64,
     energy_required = 60,
@@ -275,7 +275,7 @@ data:extend({
     type = "recipe",
     name = "cryogenic-gas-plant",
     energy_required = 8,
-    category = "crafting",
+    categories = {"crafting"},
     ingredients =
     {
       {type="item", name="steel-plate", amount=15},
