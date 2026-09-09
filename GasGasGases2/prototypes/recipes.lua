@@ -295,7 +295,7 @@ if mods["bzgas2"] then
       type = "recipe",
       name = "argon-extraction",
       localised_name = { "fluid-name.argon" },
-      category = data.raw["recipe-category"]["basic-chemistry"] and "basic-chemistry" or "chemistry",
+      categories = data.raw["recipe-category"]["basic-chemistry"] and {"basic-chemistry"} or {"chemistry"},
       icons = (mods["Krastorio2"] and
         {
           { icon = "__GasGasGases2__/graphics/icons/argon.png", icon_size = 64},
